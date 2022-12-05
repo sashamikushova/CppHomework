@@ -1,0 +1,5 @@
+ball 1 2
+doll 54 11
+konstructor 108 5
+ball 12 5
+doll 32 5
